@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Example.Simple
+namespace Example.RectangleOverlay
 {
 	public partial class Window : Form
 	{

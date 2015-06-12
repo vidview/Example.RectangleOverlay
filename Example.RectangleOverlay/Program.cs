@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Example.Simple
+namespace Example.RectangleOverlay
 {
 	static class Program
 	{

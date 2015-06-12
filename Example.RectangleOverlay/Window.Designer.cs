@@ -1,4 +1,4 @@
-﻿namespace Example.Simple
+﻿namespace Example.RectangleOverlay
 {
 	partial class Window
 	{
@@ -28,7 +28,7 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
-			this.viewer = new Example.Simple.Viewer();
+			this.viewer = new Example.RectangleOverlay.Viewer();
 			this.SuspendLayout();
 			// 
 			// viewer
@@ -46,7 +46,7 @@
 			this.ClientSize = new System.Drawing.Size(784, 562);
 			this.Controls.Add(this.viewer);
 			this.Name = "Window";
-			this.Text = "Vidview Example Getting Started";
+			this.Text = "Vidview Example Rectangle Overlay";
 			this.ResumeLayout(false);
 
 		}

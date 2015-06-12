@@ -1,7 +1,7 @@
-Example.Simple
+Example.RectangleOverlay
 ==============
 
-Base from which other examples are created. Simple viewer that plays the test source test://photo when application is started.
+This example demonstrates how to create and transform rectangular overlays.
 
 Checking out:
 -------------
