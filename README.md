@@ -1,15 +1,15 @@
 Example.RectangleOverlay
 ==============
 
-This example demonstrates how to create and transform rectangular overlays.
+This example demonstrates how to create and modify rectangular overlays.
 
 Checking out:
 -------------
 TortoiseGit:
-Right-click in Explorer and select "Git Clone". Enter the URL https://github.com/vidview/Example.Simple.git
+Right-click in Explorer and select "Git Clone". Enter the URL https://github.com/vidview/Example.RectangleOverlay.git
 
 TortoiseSVN:
-Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.com/vidview/Example.Simple.git/trunk
+Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.com/vidview/Example.RectangleOverlay.git/trunk
 
 Getting started (Visual Studio 2012 Express):
 -------------------------------------
